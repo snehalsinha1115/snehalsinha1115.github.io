@@ -1,2 +1,2 @@
-# snehalsinha1115.github.io
-portfolio website
+# Welcome
+not sure how you got here. i'm still figuring github pages out. bye!
